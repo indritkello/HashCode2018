@@ -7,3 +7,7 @@ c:\HashCode2018\HashCode2018\bin\Debug\MoreLinq.xml
 c:\HashCode2018\HashCode2018\obj\Debug\HashCode2018.csprojResolveAssemblyReference.cache
 c:\HashCode2018\HashCode2018\obj\Debug\HashCode2018.exe
 c:\HashCode2018\HashCode2018\obj\Debug\HashCode2018.pdb
+C:\HashCode2018\HashCode2018\bin\Debug\InputFiles\a_example.txt
+C:\HashCode2018\HashCode2018\bin\Debug\InputFiles\c_no_hurry.txt
+C:\HashCode2018\HashCode2018\bin\Debug\InputFiles\d_metropolis.txt
+C:\HashCode2018\HashCode2018\bin\Debug\InputFiles\e_high_bonus.txt

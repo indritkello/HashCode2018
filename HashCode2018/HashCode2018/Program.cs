@@ -16,7 +16,7 @@ namespace HashCode2018
     static void Main(string[] args)
     {
       //taking necessary data related to city and rides
-      string filePath = "c_no_hurry.txt";
+      string filePath = "InputFiles/c_no_hurry.txt";
       InputData data = new InputData(filePath);
       data.City.Vehicles = new List<Vehicle>();
       //let's 'build' the vehicles as objects 
