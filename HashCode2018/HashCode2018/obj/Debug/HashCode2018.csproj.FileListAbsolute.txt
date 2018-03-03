@@ -1,0 +1,9 @@
+c:\HashCode2018\HashCode2018\bin\Debug\HashCode2018.exe.config
+c:\HashCode2018\HashCode2018\bin\Debug\HashCode2018.exe
+c:\HashCode2018\HashCode2018\bin\Debug\HashCode2018.pdb
+c:\HashCode2018\HashCode2018\bin\Debug\MoreLinq.dll
+c:\HashCode2018\HashCode2018\bin\Debug\System.ValueTuple.dll
+c:\HashCode2018\HashCode2018\bin\Debug\MoreLinq.xml
+c:\HashCode2018\HashCode2018\obj\Debug\HashCode2018.csprojResolveAssemblyReference.cache
+c:\HashCode2018\HashCode2018\obj\Debug\HashCode2018.exe
+c:\HashCode2018\HashCode2018\obj\Debug\HashCode2018.pdb
